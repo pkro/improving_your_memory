@@ -18,7 +18,7 @@ Notes on the linkedin learning course by Paul Nowak
   - [Verbalization - using songs, rhymes, and alliteration](#verbalization---using-songs-rhymes-and-alliteration)
   - [The story method](#the-story-method)
   - [The link system](#the-link-system)
-  - [Memory palaces and the method of loci ("low-cy")](#memory-palaces-and-the-method-of-loci-low-cy)
+  - [Memory palaces and the method of loci](#memory-palaces-and-the-method-of-loci)
   - [Similar sound technique](#similar-sound-technique)
 - [Using the Mnemonic Peg System](#using-the-mnemonic-peg-system)
   - [Linking numbers to pictures](#linking-numbers-to-pictures)
