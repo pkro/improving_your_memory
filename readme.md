@@ -320,8 +320,23 @@ https://www.youtube.com/results?sp=mAEB&search_query=songs+for+learning+spanish+
 
 https://www.youtube.com/watch?v=4xgsJVsAFpk&list=PL2RLDc3Akk8snxqxgWYaQIRPNIJSf-Yvo
 
-# Speed reading
+# Speed reading (non-fiction)
 
-## Increading reading speed
+As many of the speed reading techniques discussed are apparently refuted as of 2022 (e.g. subvocalization is actually a *good* thing for comprehension, ~ 500 words seems to be the max. reading speed for most people, tracing words with the finger does not really improve anything) here are just notes what actually seem to make sense from the course.
 
-### 3 habits that slow you down
+- 3-step reading process: 
+  1) Preview: read the introduction and conclusion of a chapter, or first sentence of each paragraph it's a short text (e.g. magazine article); if there's no defined intro / conclusion, read the first and last few paragraphs instead; if there are exercises at the end of a chapter, make sure to read those too.
+  2) Overview: read all headlines and bold / emphasized words / titles of diagrams (find the most important concepts)
+  3) Read: Read the material with the knowledge acquired in the previous steps
+- Read the first part, e.g. sentence of a paragraph / paragraph of a chapter / chapter of a book slower, as it often contains the gist of it, than the rest of it quicker. Slow down again at the last sentence / paragrapgh / chapter as it often contains a conclusion
+- Read and recall exercise: take a *quick* note after each paragraph to get into the mindset of retaining the information ("what did I just read?")
+- Use the memory prinicples discussed above: repeat, visualize, exagegerate, associate, chunk
+- When reading an unknown word (e.g. a technical term), finish the paragraph without it (if possible without an understanding of the term), and look it up afterwards. Use the similar sound technique discussed above to memorize it.
+- 80/20 principle: 80 percent of the results come from 20% of the causes; in reading, this would e.g. mean only use steps 1 and 2 of the 3-step reading process and only do the full reading if necessary
+- Use the Preview and overview step for whole books too: read the back and table of contents, then the introduction and conclusion of every chapter to cover the central concepts of the whole book. Read or skip what is worth the time. Exercise: do this for a new book each day.
+- When a diagram is referenced in the text, look at the diagram immediately (not after finishing the paragraph). Continue reading and then have another look whenever it's referenced again and, if necessary, after the unit referencing it (duh).
+- Use fixation points (e.g. beginning, middle and end of the line) to reduce eye movement and train recognition of groups of words
+
+Exercises:
+
+Read for 20 minutes focusing on strong comprehension, mark / remember the point where you stopped. Then go through the same material in 10 minutes. This *might* enhance the reading speed of the comprehension phase.
