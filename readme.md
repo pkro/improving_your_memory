@@ -35,9 +35,7 @@ Notes on the linkedin learning courses on memory improvement and speed reading b
     - [Memorize words in foreign languages](#memorize-words-in-foreign-languages)
     - [Memorizing speeches or scripts word for word](#memorizing-speeches-or-scripts-word-for-word)
   - [Own notes and links for spanish etc.](#own-notes-and-links-for-spanish-etc)
-- [Speed reading](#speed-reading)
-  - [Increading reading speed](#increading-reading-speed)
-    - [3 habits that slow you down](#3-habits-that-slow-you-down)
+- [Speed reading (non-fiction)](#speed-reading-non-fiction)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
