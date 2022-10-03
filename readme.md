@@ -1,7 +1,45 @@
 Notes on the linkedin learning courses on memory improvement and speed reading by Paul Nowak
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Improving your memory](#improving-your-memory)
+  - [Memory principles](#memory-principles)
+    - [Repetition](#repetition)
+    - [Exaggeration](#exaggeration)
+    - [Chunking](#chunking)
+    - [Association](#association)
+    - [Pictures](#pictures)
+  - [Memory techniques](#memory-techniques)
+    - [Using mnemonic devices](#using-mnemonic-devices)
+    - [Note-taking techniques](#note-taking-techniques)
+    - [Verbalization - using songs, rhymes, and alliteration](#verbalization---using-songs-rhymes-and-alliteration)
+    - [The story method](#the-story-method)
+    - [The link system](#the-link-system)
+    - [Memory palaces and the method of loci](#memory-palaces-and-the-method-of-loci)
+    - [Similar sound technique](#similar-sound-technique)
+  - [Using the Mnemonic Peg System](#using-the-mnemonic-peg-system)
+    - [Linking numbers to pictures](#linking-numbers-to-pictures)
+    - [Memorizing ten items](#memorizing-ten-items)
+    - [Memorizing more than ten items](#memorizing-more-than-ten-items)
+  - [Situational methods](#situational-methods)
+    - [How to remember names](#how-to-remember-names)
+    - [How to remember presentations](#how-to-remember-presentations)
+    - [How to remember what you read](#how-to-remember-what-you-read)
+    - [Remembering passwords](#remembering-passwords)
+    - [Remembering important dates](#remembering-important-dates)
+    - [Remembering numbers](#remembering-numbers)
+    - [Remembering formulas](#remembering-formulas)
+    - [Remembering a to-do list](#remembering-a-to-do-list)
+    - [Memorize words in foreign languages](#memorize-words-in-foreign-languages)
+    - [Memorizing speeches or scripts word for word](#memorizing-speeches-or-scripts-word-for-word)
+  - [Own notes and links for spanish etc.](#own-notes-and-links-for-spanish-etc)
+- [Speed reading](#speed-reading)
+  - [Increading reading speed](#increading-reading-speed)
+    - [3 habits that slow you down](#3-habits-that-slow-you-down)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Improving your memory
 
